@@ -17,14 +17,3 @@
 # If the dealer's hand is < 17 they have to hit. Then the dealer_score_label and dealer_score is set equal to the dealer's hand value again
 #
 # The last function decides the winner. If the player_score is less than 100 and the dealer_score is equal to 100, the player wins. If the player_score is greater than the dealer_score, the player also wins. If the scores are the same, it is a tie. Else, the dealer wins.
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
